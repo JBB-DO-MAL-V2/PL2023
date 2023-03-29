@@ -23,7 +23,7 @@ def distribution_by_sex(lista):
 			dict_por_sexo['F'] += 1
 
 	return dict_por_sexo
-	
+	 
 def distribution_by_age(lista):
 	dict_por_idade = {'[30-34]': 0, '[35-39]': 0, '[40-44]': 0}
 
